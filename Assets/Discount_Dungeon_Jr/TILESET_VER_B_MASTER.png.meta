@@ -1,0 +1,3336 @@
+fileFormatVersion: 2
+guid: b8391761d0e03c94aa01552ec5ca59b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -654267226748948071
+    second: TILESET_VER_B_MASTER_0
+  - first:
+      213: 4749799421526893009
+    second: TILESET_VER_B_MASTER_1
+  - first:
+      213: 8737509289688797523
+    second: TILESET_VER_B_MASTER_2
+  - first:
+      213: 7147842273148185260
+    second: TILESET_VER_B_MASTER_3
+  - first:
+      213: -7500372073324621223
+    second: TILESET_VER_B_MASTER_4
+  - first:
+      213: -7274040139594047550
+    second: TILESET_VER_B_MASTER_5
+  - first:
+      213: -3115315317772019264
+    second: TILESET_VER_B_MASTER_6
+  - first:
+      213: -9004812373265472990
+    second: TILESET_VER_B_MASTER_7
+  - first:
+      213: -2293674255610606769
+    second: TILESET_VER_B_MASTER_8
+  - first:
+      213: 7809203770709450393
+    second: TILESET_VER_B_MASTER_9
+  - first:
+      213: -446023284174072775
+    second: TILESET_VER_B_MASTER_10
+  - first:
+      213: 2456612759620854572
+    second: TILESET_VER_B_MASTER_11
+  - first:
+      213: 2491299527868186123
+    second: TILESET_VER_B_MASTER_12
+  - first:
+      213: -1616284659871776753
+    second: TILESET_VER_B_MASTER_13
+  - first:
+      213: 6824642705427525198
+    second: TILESET_VER_B_MASTER_14
+  - first:
+      213: 4098759910894307060
+    second: TILESET_VER_B_MASTER_15
+  - first:
+      213: 1945290044497873369
+    second: TILESET_VER_B_MASTER_16
+  - first:
+      213: -537549284665515217
+    second: TILESET_VER_B_MASTER_17
+  - first:
+      213: -8967733712257288554
+    second: TILESET_VER_B_MASTER_18
+  - first:
+      213: 5389930772255279008
+    second: TILESET_VER_B_MASTER_19
+  - first:
+      213: -7461221600369926601
+    second: TILESET_VER_B_MASTER_20
+  - first:
+      213: -3177590280513708878
+    second: TILESET_VER_B_MASTER_21
+  - first:
+      213: 2356683889947599355
+    second: TILESET_VER_B_MASTER_22
+  - first:
+      213: 6743613914637657754
+    second: TILESET_VER_B_MASTER_23
+  - first:
+      213: 2834494096312649765
+    second: TILESET_VER_B_MASTER_24
+  - first:
+      213: 3411343909650867155
+    second: TILESET_VER_B_MASTER_25
+  - first:
+      213: -6668294713713445538
+    second: TILESET_VER_B_MASTER_26
+  - first:
+      213: -3846897228094622670
+    second: TILESET_VER_B_MASTER_27
+  - first:
+      213: 8500267901326647030
+    second: TILESET_VER_B_MASTER_28
+  - first:
+      213: -7989291552002097737
+    second: TILESET_VER_B_MASTER_29
+  - first:
+      213: -7964995171322058482
+    second: TILESET_VER_B_MASTER_30
+  - first:
+      213: 697235157108793522
+    second: TILESET_VER_B_MASTER_31
+  - first:
+      213: -4104864011668386153
+    second: TILESET_VER_B_MASTER_32
+  - first:
+      213: -5515381598906303982
+    second: TILESET_VER_B_MASTER_33
+  - first:
+      213: -7784586464625309670
+    second: TILESET_VER_B_MASTER_34
+  - first:
+      213: 2457590521999567306
+    second: TILESET_VER_B_MASTER_35
+  - first:
+      213: 7013773281848022258
+    second: TILESET_VER_B_MASTER_36
+  - first:
+      213: -7402002523631958187
+    second: TILESET_VER_B_MASTER_37
+  - first:
+      213: 7793260271743806227
+    second: TILESET_VER_B_MASTER_38
+  - first:
+      213: -4670317869904267612
+    second: TILESET_VER_B_MASTER_39
+  - first:
+      213: 65361929823924349
+    second: TILESET_VER_B_MASTER_40
+  - first:
+      213: 7640593256074387317
+    second: TILESET_VER_B_MASTER_41
+  - first:
+      213: -4242525993596482044
+    second: TILESET_VER_B_MASTER_42
+  - first:
+      213: -8739372079887288571
+    second: TILESET_VER_B_MASTER_43
+  - first:
+      213: -7688416689962318598
+    second: TILESET_VER_B_MASTER_44
+  - first:
+      213: -2553897252643652034
+    second: TILESET_VER_B_MASTER_45
+  - first:
+      213: -1383167644627882405
+    second: TILESET_VER_B_MASTER_46
+  - first:
+      213: 7258034541406178545
+    second: TILESET_VER_B_MASTER_47
+  - first:
+      213: -4492447019582166985
+    second: TILESET_VER_B_MASTER_48
+  - first:
+      213: -3618530403436388734
+    second: TILESET_VER_B_MASTER_49
+  - first:
+      213: -1848209753430382590
+    second: TILESET_VER_B_MASTER_50
+  - first:
+      213: 6176941451789974079
+    second: TILESET_VER_B_MASTER_51
+  - first:
+      213: -6363102094750161825
+    second: TILESET_VER_B_MASTER_52
+  - first:
+      213: 8430750181500952001
+    second: TILESET_VER_B_MASTER_53
+  - first:
+      213: -2012767531191619326
+    second: TILESET_VER_B_MASTER_54
+  - first:
+      213: 7973847674979085996
+    second: TILESET_VER_B_MASTER_55
+  - first:
+      213: -1724423856609646763
+    second: TILESET_VER_B_MASTER_56
+  - first:
+      213: 6596501563075291232
+    second: TILESET_VER_B_MASTER_57
+  - first:
+      213: 4190752287843376316
+    second: TILESET_VER_B_MASTER_58
+  - first:
+      213: -8760854292793668919
+    second: TILESET_VER_B_MASTER_59
+  - first:
+      213: -5789583617088500981
+    second: TILESET_VER_B_MASTER_60
+  - first:
+      213: -7227211000371995956
+    second: TILESET_VER_B_MASTER_61
+  - first:
+      213: 135114088688680294
+    second: TILESET_VER_B_MASTER_62
+  - first:
+      213: -5396827808818443946
+    second: TILESET_VER_B_MASTER_63
+  - first:
+      213: 1259616720271315446
+    second: TILESET_VER_B_MASTER_64
+  - first:
+      213: 2033834707198268438
+    second: TILESET_VER_B_MASTER_65
+  - first:
+      213: 6947122339679634675
+    second: TILESET_VER_B_MASTER_66
+  - first:
+      213: 6136682413887768292
+    second: TILESET_VER_B_MASTER_67
+  - first:
+      213: 4791742130207903947
+    second: TILESET_VER_B_MASTER_68
+  - first:
+      213: 5281807408355808373
+    second: TILESET_VER_B_MASTER_69
+  - first:
+      213: 2392259494755698352
+    second: TILESET_VER_B_MASTER_70
+  - first:
+      213: -2689107295104239665
+    second: TILESET_VER_B_MASTER_71
+  - first:
+      213: 1203991331118128449
+    second: TILESET_VER_B_MASTER_72
+  - first:
+      213: 3384677003900096544
+    second: TILESET_VER_B_MASTER_73
+  - first:
+      213: 8131502742775173208
+    second: TILESET_VER_B_MASTER_74
+  - first:
+      213: 7308484230190741409
+    second: TILESET_VER_B_MASTER_75
+  - first:
+      213: -8553363880696499432
+    second: TILESET_VER_B_MASTER_76
+  - first:
+      213: -956213115934432661
+    second: TILESET_VER_B_MASTER_77
+  - first:
+      213: -6594330798962836311
+    second: TILESET_VER_B_MASTER_78
+  - first:
+      213: -5053823234282768355
+    second: TILESET_VER_B_MASTER_79
+  - first:
+      213: 9048936728401392141
+    second: TILESET_VER_B_MASTER_80
+  - first:
+      213: 4736883956841584586
+    second: TILESET_VER_B_MASTER_81
+  - first:
+      213: -4898694967409909083
+    second: TILESET_VER_B_MASTER_82
+  - first:
+      213: -1502497896964102808
+    second: TILESET_VER_B_MASTER_83
+  - first:
+      213: -7347277279769666560
+    second: TILESET_VER_B_MASTER_84
+  - first:
+      213: 2450697959164430582
+    second: TILESET_VER_B_MASTER_85
+  - first:
+      213: 7429856389354321775
+    second: TILESET_VER_B_MASTER_86
+  - first:
+      213: -5497979503856971765
+    second: TILESET_VER_B_MASTER_87
+  - first:
+      213: 6392094908358850790
+    second: TILESET_VER_B_MASTER_88
+  - first:
+      213: -6723256659438097212
+    second: TILESET_VER_B_MASTER_89
+  - first:
+      213: -858793051196463277
+    second: TILESET_VER_B_MASTER_90
+  - first:
+      213: 1368038320527851245
+    second: TILESET_VER_B_MASTER_91
+  - first:
+      213: -8247780056109563451
+    second: TILESET_VER_B_MASTER_92
+  - first:
+      213: -412449547803088991
+    second: TILESET_VER_B_MASTER_93
+  - first:
+      213: -7336732422447476852
+    second: TILESET_VER_B_MASTER_94
+  - first:
+      213: -7959157850297223315
+    second: TILESET_VER_B_MASTER_95
+  - first:
+      213: -3778457329281115816
+    second: TILESET_VER_B_MASTER_96
+  - first:
+      213: -2369094710892362247
+    second: TILESET_VER_B_MASTER_97
+  - first:
+      213: -1951686330571993827
+    second: TILESET_VER_B_MASTER_98
+  - first:
+      213: -4310046565937791094
+    second: TILESET_VER_B_MASTER_99
+  - first:
+      213: 7365284229107087194
+    second: TILESET_VER_B_MASTER_100
+  - first:
+      213: 8070568793781890129
+    second: TILESET_VER_B_MASTER_101
+  - first:
+      213: -8460128896459677291
+    second: TILESET_VER_B_MASTER_102
+  - first:
+      213: 8683503009014360327
+    second: TILESET_VER_B_MASTER_103
+  - first:
+      213: 3543963522726355713
+    second: TILESET_VER_B_MASTER_104
+  - first:
+      213: -6245770182833147245
+    second: TILESET_VER_B_MASTER_105
+  - first:
+      213: -1561027745500088760
+    second: TILESET_VER_B_MASTER_106
+  - first:
+      213: -8868124426329756494
+    second: TILESET_VER_B_MASTER_107
+  - first:
+      213: 1901662840721752197
+    second: TILESET_VER_B_MASTER_108
+  - first:
+      213: 4078117224089772759
+    second: TILESET_VER_B_MASTER_109
+  - first:
+      213: 2671057766203396281
+    second: TILESET_VER_B_MASTER_110
+  - first:
+      213: -8333777505779487383
+    second: TILESET_VER_B_MASTER_111
+  - first:
+      213: -7851602100300138075
+    second: TILESET_VER_B_MASTER_112
+  - first:
+      213: -6788534942886189998
+    second: TILESET_VER_B_MASTER_113
+  - first:
+      213: 8853472638870947833
+    second: TILESET_VER_B_MASTER_114
+  - first:
+      213: 2806735989514667465
+    second: TILESET_VER_B_MASTER_115
+  - first:
+      213: 7949199187821461635
+    second: TILESET_VER_B_MASTER_116
+  - first:
+      213: 7807527805445285275
+    second: TILESET_VER_B_MASTER_117
+  - first:
+      213: 6958177276652816830
+    second: TILESET_VER_B_MASTER_118
+  - first:
+      213: -3258837272086399642
+    second: TILESET_VER_B_MASTER_119
+  - first:
+      213: -2098574898999274314
+    second: TILESET_VER_B_MASTER_120
+  - first:
+      213: 6514018710418019855
+    second: TILESET_VER_B_MASTER_121
+  - first:
+      213: 3471099534874790074
+    second: TILESET_VER_B_MASTER_122
+  - first:
+      213: -328888017840412762
+    second: TILESET_VER_B_MASTER_123
+  - first:
+      213: -4931352586235569072
+    second: TILESET_VER_B_MASTER_124
+  - first:
+      213: -401631360544985851
+    second: TILESET_VER_B_MASTER_125
+  - first:
+      213: 8139285698537614273
+    second: TILESET_VER_B_MASTER_126
+  - first:
+      213: 2640316290657426506
+    second: TILESET_VER_B_MASTER_127
+  - first:
+      213: -511938113730073636
+    second: TILESET_VER_B_MASTER_128
+  - first:
+      213: 5389271194304421730
+    second: TILESET_VER_B_MASTER_129
+  - first:
+      213: 3169631179446660419
+    second: TILESET_VER_B_MASTER_130
+  - first:
+      213: -5386740125435598083
+    second: TILESET_VER_B_MASTER_131
+  - first:
+      213: 325277763093158634
+    second: TILESET_VER_B_MASTER_132
+  - first:
+      213: 1126073897489585439
+    second: TILESET_VER_B_MASTER_133
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991f2797c639be6f0800000000000000
+      internalID: -654267226748948071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1677a886daae140800000000000000
+      internalID: 4749799421526893009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3519399d76ed14970800000000000000
+      internalID: 8737509289688797523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa4813dac323360800000000000000
+      internalID: 7147842273148185260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952d936865359e790800000000000000
+      internalID: -7500372073324621223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf5095580b6d0b90800000000000000
+      internalID: -7274040139594047550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c99dd0693d24c4d0800000000000000
+      internalID: -3115315317772019264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22228762bda780380800000000000000
+      internalID: -9004812373265472990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b0fdbba6b3b20e0800000000000000
+      internalID: -2293674255610606769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e17cb547ddf5c60800000000000000
+      internalID: 7809203770709450393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9345049af286fc9f0800000000000000
+      internalID: -446023284174072775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23a4e70a44a71220800000000000000
+      internalID: 2456612759620854572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e7eab98bfd29220800000000000000
+      internalID: 2491299527868186123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f000e605aadc199e0800000000000000
+      internalID: -1616284659871776753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ee7ffc16006be50800000000000000
+      internalID: 6824642705427525198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6877c3c68b1e830800000000000000
+      internalID: 4098759910894307060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d946672dfe0ffa10800000000000000
+      internalID: 1945290044497873369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f232f3e06cd3a88f0800000000000000
+      internalID: -537549284665515217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696fb98a3b53c8380800000000000000
+      internalID: -8967733712257288554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a70934fa71ecca40800000000000000
+      internalID: 5389930772255279008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 300
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9a775c7a647890800000000000000
+      internalID: -7461221600369926601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc1f38b97ee6e3d0800000000000000
+      internalID: -3177590280513708878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1663cf28f94b020800000000000000
+      internalID: 2356683889947599355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96eb5c4021269d50800000000000000
+      internalID: 6743613914637657754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52848a0ec55265720800000000000000
+      internalID: 2834494096312649765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3ae653637875f20800000000000000
+      internalID: 3411343909650867155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_26
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55be7bb9457573a0800000000000000
+      internalID: -6668294713713445538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_27
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2343cff4a531d9ac0800000000000000
+      internalID: -3846897228094622670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feda32be9407f570800000000000000
+      internalID: 8500267901326647030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdb2eb99a5502190800000000000000
+      internalID: -7989291552002097737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_30
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09a5af8717a67190800000000000000
+      internalID: -7964995171322058482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b022686ea31da900800000000000000
+      internalID: 697235157108793522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e883d0ee79807c0800000000000000
+      internalID: -4104864011668386153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ab67458ad6573b0800000000000000
+      internalID: -5515381598906303982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18c1bcdad797f390800000000000000
+      internalID: -7784586464625309670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a6231f8d1b1220800000000000000
+      internalID: 2457590521999567306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_36
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f45da7a3ade55160800000000000000
+      internalID: 7013773281848022258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_37
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5574f581cedc64990800000000000000
+      internalID: -7402002523631958187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b247b3de8372c60800000000000000
+      internalID: 7793260271743806227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_39
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 264
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6723844a2bf2fb0800000000000000
+      internalID: -4670317869904267612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d703df0345638e000800000000000000
+      internalID: 65361929823924349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f1f85b517d80a60800000000000000
+      internalID: 7640593256074387317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e025136158f15c0800000000000000
+      internalID: -4242525993596482044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507f952856387b680800000000000000
+      internalID: -8739372079887288571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af48c9561c14d4590800000000000000
+      internalID: -7688416689962318598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e3457dafbbe8cd0800000000000000
+      internalID: -2553897252643652034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e24250b500ecce0800000000000000
+      internalID: -1383167644627882405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcc700f5f7b9b460800000000000000
+      internalID: 7258034541406178545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ea89dc3f97a1c0800000000000000
+      internalID: -4492447019582166985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e193615c568cdc0800000000000000
+      internalID: -3618530403436388734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208ae508507d956e0800000000000000
+      internalID: -1848209753430382590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_51
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab3580687e8b550800000000000000
+      internalID: 6176941451789974079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546fd4ab58b1b7a0800000000000000
+      internalID: -6363102094750161825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd9c6e3f9a000570800000000000000
+      internalID: 8430750181500952001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_54
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20132ef28963114e0800000000000000
+      internalID: -2012767531191619326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_55
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caee330963cc8ae60800000000000000
+      internalID: 7973847674979085996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_56
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557a29883ad9118e0800000000000000
+      internalID: -1724423856609646763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_57
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068696bc83b7b8b50800000000000000
+      internalID: 6596501563075291232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_58
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc5f82900b882a30800000000000000
+      internalID: 4190752287843376316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 228
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cac31d00713b6680800000000000000
+      internalID: -8760854292793668919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc402ff5447afa0800000000000000
+      internalID: -5789583617088500981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca1806f2e9c3bb90800000000000000
+      internalID: -7227211000371995956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d707c3c8500e100800000000000000
+      internalID: 135114088688680294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_63
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6594d6593bd9a15b0800000000000000
+      internalID: -5396827808818443946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11aecbbbe0b7110800000000000000
+      internalID: 1259616720271315446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614d966f3e1a93c10800000000000000
+      internalID: 2033834707198268438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_66
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f409c3e5f2296060800000000000000
+      internalID: 6947122339679634675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_67
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6ca235420e92550800000000000000
+      internalID: 6136682413887768292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0d0566410bf7240800000000000000
+      internalID: 4791742130207903947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_69
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574131b8adfbc4940800000000000000
+      internalID: 5281807408355808373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_70
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b60873f553033120800000000000000
+      internalID: 2392259494755698352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_71
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc77660a92f5eaad0800000000000000
+      internalID: -2689107295104239665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d12f39cbf65b010800000000000000
+      internalID: 1203991331118128449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_73
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02016e06dc9c8fe20800000000000000
+      internalID: 3384677003900096544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_74
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8509a3979a6e8d070800000000000000
+      internalID: 8131502742775173208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a730137fa3fc6560800000000000000
+      internalID: 7308484230190741409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_76
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813bd604ed85c4980800000000000000
+      internalID: -8553363880696499432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_77
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62a82fbc39dab2f0800000000000000
+      internalID: -956213115934432661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_78
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acf66c931b3c74a0800000000000000
+      internalID: -6594330798962836311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b5f27b863dd9b0800000000000000
+      internalID: -5053823234282768355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b95bd208449d70800000000000000
+      internalID: 9048936728401392141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_81
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac71ac59cdaccb140800000000000000
+      internalID: 4736883956841584586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2e98ca1e6540cb0800000000000000
+      internalID: -4898694967409909083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_83
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865eeaf8f1e062be0800000000000000
+      internalID: -1502497896964102808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cd709dd3a390a90800000000000000
+      internalID: -7347277279769666560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f845cb3fc0a20220800000000000000
+      internalID: 2450697959164430582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_86
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6771a365072c1760800000000000000
+      internalID: 7429856389354321775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_87
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b001a3255c043b3b0800000000000000
+      internalID: -5497979503856971765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8ff4fc37845b850800000000000000
+      internalID: 6392094908358850790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_89
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca96880b132b2a0800000000000000
+      internalID: -6723256659438097212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_90
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3576cdf1544f414f0800000000000000
+      internalID: -858793051196463277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_91
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee3f26ba9f3cf210800000000000000
+      internalID: 1368038320527851245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_92
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c902dcbff98d80800000000000000
+      internalID: -8247780056109563451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_93
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a72d6f425fa64af0800000000000000
+      internalID: -412449547803088991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_94
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f4de3cbb0be2a90800000000000000
+      internalID: -7336732422447476852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b5c5ca146b8190800000000000000
+      internalID: -7959157850297223315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_96
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8595a310419309bc0800000000000000
+      internalID: -3778457329281115816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_97
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5010699e84f1fd0800000000000000
+      internalID: -2369094710892362247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_98
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d45417f973ae4e0800000000000000
+      internalID: -1951686330571993827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_99
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 156
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fb2efdb73af24c0800000000000000
+      internalID: -4310046565937791094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57f6b1cbfeb63660800000000000000
+      internalID: 7365284229107087194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_101
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ce8b8ee8b600070800000000000000
+      internalID: 8070568793781890129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591e084a795979a80800000000000000
+      internalID: -8460128896459677291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7092652cafff18870800000000000000
+      internalID: 8683503009014360327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_104
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103eb051c00be2130800000000000000
+      internalID: 3543963522726355713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_105
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392f0873c119259a0800000000000000
+      internalID: -6245770182833147245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_106
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84630f0498d165ae0800000000000000
+      internalID: -1561027745500088760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc66a0d1d71ee480800000000000000
+      internalID: -8868124426329756494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580c7c73740146a10800000000000000
+      internalID: 1901662840721752197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_109
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2e54e2202689830800000000000000
+      internalID: 4078117224089772759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_110
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01a11f2e0811520800000000000000
+      internalID: 2671057766203396281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_111
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6fd24389785c80800000000000000
+      internalID: -8333777505779487383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_112
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a936e54d71890390800000000000000
+      internalID: -7851602100300138075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25421f7cf674ac1a0800000000000000
+      internalID: -6788534942886189998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_114
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f70b84157addda70800000000000000
+      internalID: 8853472638870947833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_115
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c58351038783f620800000000000000
+      internalID: 2806735989514667465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_116
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800cee6b8a315e60800000000000000
+      internalID: 7949199187821461635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_117
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 120
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b952d894c29e95c60800000000000000
+      internalID: 7807527805445285275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9061bfd59609060800000000000000
+      internalID: 6958177276652816830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_119
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 84
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665bc7064c846c2d0800000000000000
+      internalID: -3258837272086399642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_120
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 84
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d8928f3d50e2e0800000000000000
+      internalID: -2098574898999274314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_121
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 84
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d6be1181766a50800000000000000
+      internalID: 6514018710418019855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_122
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 84
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab84c34e2a2db2030800000000000000
+      internalID: 3471099534874790074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_123
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 84
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a76dbd171e8f6bf0800000000000000
+      internalID: -328888017840412762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_124
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 84
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c993343f0509bb0800000000000000
+      internalID: -4931352586235569072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_125
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 84
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2f00d76e1d6af0800000000000000
+      internalID: -401631360544985851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb60c2183d84f070800000000000000
+      internalID: 8139285698537614273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_127
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c10576da944a420800000000000000
+      internalID: 2640316290657426506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_128
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdba2287ffa35e8f0800000000000000
+      internalID: -511938113730073636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f92cef8998aca40800000000000000
+      internalID: 5389271194304421730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_130
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 48
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dabe7a3caccfb20800000000000000
+      internalID: 3169631179446660419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_131
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa611665647e35b0800000000000000
+      internalID: -5386740125435598083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_132
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 12
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea5082f66e938400800000000000000
+      internalID: 325277763093158634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TILESET_VER_B_MASTER_133
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 12
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d4ba5e3e90af00800000000000000
+      internalID: 1126073897489585439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
